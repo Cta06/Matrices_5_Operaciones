@@ -25,6 +25,13 @@ Si utilizas CMake para administrar tu proyecto, sigue estos pasos:
 ## Uso
 1. Ejecuta tu programa compilado: `./mi_programa` (si usaste GCC) o navega al directorio de construcción y ejecuta el programa desde allí (si usaste CMake).
 
+## Contribución
+Si deseas contribuir a este proyecto, sigue los pasos:
+1. Haz un fork del repositorio.
+2. Crea una rama para tu contribución: `git checkout -b mi-contribucion`
+3. Realiza tus cambios y documenta las actualizaciones.
+4. Envía un pull request.
+
 ## Licencia
 Este proyecto está bajo la licencia [nombre de la licencia]. Consulta el archivo LICENSE para más detalles.
 Como en el ejemplo anterior, asegúrate de personalizar el README con la información específica de tu proyecto y reemplaza "nombre de la licencia" con la licencia real que estás utilizando. Además, si estás usando herramientas de construcción específicas como CMake, asegúrate de proporcionar instrucciones para esos casos.
